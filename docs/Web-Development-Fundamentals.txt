@@ -1,0 +1,19 @@
+Web Development Fundamentals
+
+HTML (HyperText Markup Language):
+HTML is the standard markup language for creating web pages. It describes the structure of web pages using markup.
+
+CSS (Cascading Style Sheets):
+CSS is the language used to style the HTML document. It describes how HTML elements should be displayed.
+
+JavaScript:
+JavaScript is a programming language that enables interactive web pages. It's an essential part of web applications.
+
+Key Concepts:
+1. Responsive Design
+2. Browser Compatibility
+3. Web Accessibility
+4. Performance Optimization
+5. SEO Best Practices
+
+Modern web development also includes frameworks and tools like React, Vue, and Angular, which help create more dynamic and interactive web applications.
