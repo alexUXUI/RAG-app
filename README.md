@@ -25,6 +25,10 @@ This application was built entirely by Trae, using Claude-3.5-Sonnet as the LLM.
 npm run dev
 ```
 
+## Demo
+
+![RAG Application Demo](./demo.png)
+
 ### Developing with RsLib
 
 link to the library: <https://lib.rsbuild.dev/>
